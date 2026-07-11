@@ -1,0 +1,15 @@
+# Python dependencies for "Code for Paper.ipynb"
+# Developed and run on Python 3.12 (kernel: general312).
+# Versions below are pinned to the environment the notebook was executed in.
+
+numpy==2.5.1
+pandas==3.0.3
+scipy==1.18.0
+matplotlib==3.11.0
+seaborn==0.13.2
+scikit-learn==1.9.0
+statsmodels==0.14.6
+networkx==3.6.1
+plotly==6.8.0
+scikit-posthocs==0.14.0
+openpyxl==3.1.5
