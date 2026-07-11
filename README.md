@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/29911492/README.md)
 # System-level reorganization of transcriptomic networks underlies the nurse-to-forager transition in honey bees
 
 Code and data accompanying the paper by **Robert E. Page, Jr.** and **Eric Bonabeau**
@@ -83,7 +84,8 @@ data files above. Cell-to-figure mapping:
 
 ## Requirements
 
-The notebook was developed under Anaconda (Python 3). Required packages:
+The notebook was developed and run on **Python 3.12** (Jupyter kernel
+`general312`). Required packages:
 
 - `numpy`, `pandas`, `scipy`, `matplotlib`, `seaborn`
 - `scikit-learn`
@@ -93,7 +95,14 @@ The notebook was developed under Anaconda (Python 3). Required packages:
 - `scikit-posthocs` (Dunn's test, Fig. S2)
 - `openpyxl` (reading the `.xlsx` data files)
 
-Install with:
+Pinned versions are listed in [`requirements.txt`](requirements.txt). Install
+everything with:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or install the latest versions directly:
 
 ```bash
 pip install numpy pandas scipy matplotlib seaborn scikit-learn statsmodels \
