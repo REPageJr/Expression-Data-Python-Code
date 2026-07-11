@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29911492/README.md)
 # System-level reorganization of transcriptomic networks underlies the nurse-to-forager transition in honey bees
 
 Code and data accompanying the paper by **Robert E. Page, Jr.** and **Eric Bonabeau**
