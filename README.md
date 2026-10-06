@@ -60,7 +60,7 @@ data files above. Cell-to-figure mapping:
 | Notebook cell | Figure | Analysis |
 |---------------|--------|----------|
 | 1  | Fig. 1A | Signed modularity vs. permutation null with bootstrap CIs. |
-| 2  | Fig. 1B, 1C | λ₂ and spectral gap. |
+| 2  | Fig. 1B, 1C | λ2-λ1 and λ3-λ2. |
 | 3  | Fig. S1 | Edge-level statistics; day 6 → day 10 transition test. |
 | 4  | Fig. 2 | Force-directed (spring) layouts of the correlation networks. |
 | 5  | Fig. S2 | Vitellogenin dynamics across age (Kruskal–Wallis, Levene, Dunn). |
